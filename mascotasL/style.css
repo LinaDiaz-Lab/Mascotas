@@ -1,0 +1,72 @@
+body {
+    background-image: url(./img/r.jpeg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+ }
+ section{
+    border-radius: 30px;
+    background-color: rgb(211, 247, 229);
+    border: 2px solid rgb(87, 211, 143);
+    width: 800px;
+    height: auto;
+ }
+
+ h1{
+     color: rgb(60, 145, 98);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ h2{
+     color:rgb(60, 145, 98) ;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ button{
+     background-color:rgb(87, 211, 143) !important ;
+     border: none !important;
+ }
+
+ .boton{
+    display: flex;
+    justify-content: center;
+ }
+
+ .thead{
+    background-color: rgb(87, 211, 143);
+    color: white;
+ }
+
+ .thead th{
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+
+ .thead2 th{
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .cajajefe{
+    display: inline-flex;
+}
+
+
+ label{
+     color: rgb(60, 145, 98);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 20px;
+ }
+ input{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(12, 85, 45);
+ }
+
+ option{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(12, 85, 45);
+ }
